@@ -1,6 +1,6 @@
 import SwiftUI
 
-
+//I made this one myself
 
 struct KittyApears: View {
     @State var catName = ""

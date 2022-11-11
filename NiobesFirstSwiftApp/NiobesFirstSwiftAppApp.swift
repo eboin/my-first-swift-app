@@ -1,10 +1,3 @@
-//
-//  NiobesFirstSwiftAppApp.swift
-//  NiobesFirstSwiftApp
-//
-//  Created by Niobe Brokenshire on 2022-11-05.
-//
-
 import SwiftUI
 
 @main

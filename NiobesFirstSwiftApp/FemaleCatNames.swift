@@ -1,5 +1,7 @@
 import SwiftUI
 
+//I made this one myself
+
 struct FemaleCatNames: View {
     @State var catName = ""
     var body: some View {
